@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Mersad%20Akbari;born in 2004;interested in programming;love you mwah&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi There ! 👋&font=Fira%20Code&center=true&width=500&height=65&color=f75c7e&vCenter=true&pause=9999999999&size=22" /><br>
+    <img src="https://readme-typing-svg.demolab.com/?lines=My full name is:;I was born in :;Currently living in :;I'm interested in :;love you mwah&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mersad%20Akbari;2004-10-14;Iran-Markazi-Saveh;Programming;love you mwah&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 <p align="center" color="purple">
 <font >
