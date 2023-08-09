@@ -44,9 +44,9 @@ Here are some ideas to get you started:
   
 
 
-<h2> 🚀 &nbsp; Things that I'm interested in and I have basic knowledge and information about: </h2>
-<p align="center">
+<h4> 🚀 &nbsp; Things that I'm interested in and I have basic knowledge and information about: </h4>
+<p>
   <a href="https://instagram.com/mersad.public">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,docker,git,github,kotlin,linux,py,regex,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,docker,git,github,kotlin,linux,py,regex" />
   </a>
 </p>
