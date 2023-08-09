@@ -41,7 +41,6 @@ Here are some ideas to get you started:
         <a href="https://linkedin.com/MersadAkbari">
     <img width=40 src="https://github.com/MersadAkbari/MersadAkbari/blob/main/icons/8726150_linkedin_icon.png" />
   </a>
-  
 
 
 <h4> 🚀 &nbsp; Things that I'm interested in and I have basic knowledge and information about: </h4>
@@ -50,3 +49,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,docker,git,github,kotlin,linux,py,regex" />
   </a>
 </p>
+
+
+
+
+  ![Visitor Count](https://profile-counter.glitch.me/MersadAkbari/count.svg)
