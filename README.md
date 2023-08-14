@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </a>
 
 
-<h4> 🚀 &nbsp; Things that I'm interested in and I have basic knowledge and information about: </h4>
+<h4> 🚀 &nbsp; Things that I'm interested in and I have basic knowledge and experience with: </h4>
 <p>
   <a href="https://instagram.com/mersad.public">
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,docker,git,github,kotlin,linux,py,regex" />
