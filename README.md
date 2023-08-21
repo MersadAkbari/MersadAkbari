@@ -55,6 +55,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
 
 <h4> 🚀 &nbsp; Things that I'm interested in and I have basic knowledge and experience with: </h4>
 <p>
@@ -62,8 +63,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,docker,git,github,kotlin,linux,py,regex" />
   </a>
 </p>
+
+---
+
+![Mersad's github stats](https://github-readme-stats.vercel.app/api?username=MersadAkbari&show_icons=true&theme=dracula)       ![pv](https://pageview.vercel.app/?github_user=MersadAkbari)
 <br>
 
-![Mersad's github stats](https://github-readme-stats.vercel.app/api?username=MersadAkbari&show_icons=true&theme=dracula)
-<br>
-![pv](https://pageview.vercel.app/?github_user=MersadAkbari)
