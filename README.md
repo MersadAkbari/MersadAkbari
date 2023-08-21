@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi There ! 👋&font=Fira%20Code&center=true&width=500&height=65&vCenter=true&pause=9999999999&size=22&color=FFFFFF" /><br>
     <img src="https://readme-typing-svg.demolab.com/?lines=My full name is:;I was born in :;Currently living in :;I'm interested in :;♥♥♥♥♥♥♥♥♥♥&font=Fira%20Code&center=true&width=440&height=45&color=D123B3&vCenter=true&pause=1000&size=22" />
-    <img src="https://readme-typing-svg.demolab.com/?lines=Mersad%20Akbari;2004-10-14;Iran-Markazi-Saveh;Programming;You can contact me in my social accounts :‎&font=Fira%20Code&center=true&width=440&height=45&color=D123B3&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mersad%20Akbari;2004-10-14;Iran-Markazi-Saveh;Programming;My social media: ‎&font=Fira%20Code&center=true&width=440&height=45&color=D123B3&vCenter=true&pause=1000&size=22" />
 </p>
 <!-- <p align="center">
   <a href="https://instagram.com/mersad.public">
