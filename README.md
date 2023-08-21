@@ -34,21 +34,24 @@ Here are some ideas to get you started:
       <a href="https://t.me/mersadakbari23">
     <img width=40 src="https://github.com/MersadAkbari/MersadAkbari/blob/main/icons/8726389_telegram_alt_icon.png" />
   </a>
-        <a href="https://linkedin.com/MersadAkbari">
+        <a href="https://linkedin.com/in/MersadAkbari">
     <img width=40 src="https://github.com/MersadAkbari/MersadAkbari/blob/main/icons/8726150_linkedin_icon.png" />
   </a>
  -->
   <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://linkedin.com/in/MersadAkbari">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="your-youtube-URL">
+  <a href="https://t.me/mersadakbari23">
     <img align="center" src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=Telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 
-  <a href="your-twitter-URL">
+  <a href="https://x.com/mersadakbari23">
     <img align="center" src="https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="https://instagram.com/mersad.public">
+    <img align="center" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
