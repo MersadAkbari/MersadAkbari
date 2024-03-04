@@ -25,11 +25,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com/?lines=Mersad%20Akbari;2004-10-14;Iran-Markazi-Saveh;Programming;My social media: ‎&font=Fira%20Code&center=true&width=440&height=45&color=D123B3&vCenter=true&pause=1000&size=22" />
 </p>
 <!-- <p align="center">
-<!--
-  <a href="https://instagram.com/mersad.public">
-    <img width=50 src="https://github.com/MersadAkbari/MersadAkbari/blob/main/icons/5209152_instagram_media_multimedia_online_social_icon.png" />
-  </a>
--->
+
     <a href="https://x.com/mersadakbari23">
     <img width=50 src="https://github.com/MersadAkbari/MersadAkbari/blob/main/icons/8726494_twitter_icon.png" />
   </a>
