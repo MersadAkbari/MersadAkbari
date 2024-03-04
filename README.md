@@ -48,9 +48,7 @@ Here are some ideas to get you started:
   <a href="https://x.com/mersadakbari23">
     <img align="center" src="https://img.shields.io/badge/Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://instagram.com/mersad.public">
-    <img align="center" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
+   
 </div>
 
 ---
